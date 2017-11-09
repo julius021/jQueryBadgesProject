@@ -13,3 +13,18 @@
 2017-11-09T15:53:51.416Z - debug:  [07496] TFVC: spawned new process (duration: 6ms)
 2017-11-09T15:53:53.343Z - debug:  [07496] TFVC: add exit code: 0 (duration: 1984ms)
 2017-11-09T15:53:53.344Z - error:  [07496] It appears you have configured a non-English version of the TF executable. Please ensure an English version is properly configured.
+2017-11-09T16:07:13.286Z - info:   [09576] *** FOLDER: c:\Projets\codeschool\jQueryBadgesProject ***
+2017-11-09T16:07:13.289Z - info:   [09576] VSTSVSCode/1.122.0 (VSCode 1.18.0; Windows_NT 6.1.7601; Node 7.9.0)
+2017-11-09T16:07:13.290Z - debug:  [09576] Looking for an External Context at c:\Projets\codeschool\jQueryBadgesProject
+2017-11-09T16:07:13.290Z - debug:  [09576] No External Context at c:\Projets\codeschool\jQueryBadgesProject
+2017-11-09T16:07:13.299Z - debug:  [09576] Looking for TFVC repository at c:\Projets\codeschool\jQueryBadgesProject
+2017-11-09T16:07:13.300Z - debug:  [09576] TFVC Creating Tfvc object with localPath='undefined'
+2017-11-09T16:07:13.301Z - debug:  [09576] Using TFS proxy: 
+2017-11-09T16:07:13.301Z - debug:  [09576] TFVC Retrieved from settings; localPath='C:\My Program Files\Visual Studio 2017\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2017-11-09T16:07:13.301Z - debug:  [09576] TFVC Repository created with repositoryRootFolder='c:\Projets\codeschool\jQueryBadgesProject'
+2017-11-09T16:07:13.302Z - debug:  [09576] TFVC Repository.CheckVersion
+2017-11-09T16:07:13.303Z - debug:  [09576] TFVC: tf add -noprompt -?
+2017-11-09T16:07:13.309Z - debug:  [09576] TFVC: spawned new process (duration: 5ms)
+2017-11-09T16:07:13.315Z - debug:  [09576] TFVC: spawned new process (duration: 5ms)
+2017-11-09T16:07:14.739Z - debug:  [09576] TFVC: add exit code: 0 (duration: 1435ms)
+2017-11-09T16:07:14.743Z - error:  [09576] It appears you have configured a non-English version of the TF executable. Please ensure an English version is properly configured.
